@@ -1,0 +1,11 @@
+body{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.quadrdo{
+    width: 48%;
+    height: 0; 
+    padding-bottom: 48%; 
+    margin: 1%;
+    float: left;
+    position: relative;
+}
